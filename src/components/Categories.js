@@ -10,7 +10,7 @@ export class Categories extends Component {
                     name: 'все'
                 },
                 {
-                    key: 'classic',
+                    key: 'Классика',
                     name: 'Классика'
                 },
                 {
